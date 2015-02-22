@@ -1,6 +1,6 @@
 ### Techniki-Internetowe
 #### Pierwsze zajęcia
 
-Dzisiaj było o:
-..* Markdown
-..* AsciDoc
+1. Dzisiaj było o:
+⋅⋅* Markdown
+⋅⋅* AsciDoc
