@@ -25,7 +25,7 @@
 
 
 
-# *Dodajemy obrazek: *
+# *Dodajemy obrazek:*
 
 ![motyl](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToGdgxCZbT5aIFUC8Pjfrj6TWQc1muHW2IT9BNcEe6UxVZ8mnx)
 
