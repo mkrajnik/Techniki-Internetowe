@@ -10,7 +10,7 @@
     - nagłówki
     - listy
     - i inne takie
-    
+
 2. **Tabela:**
 
 -------- | kolumna1| kolumna2
@@ -38,4 +38,3 @@
 >    *Jonathan Carroll*
 
 [**Więcej o Markodwnie**](https://www.google.pl/search?client=ubuntu&channel=fs&q=markodn&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=LR_zVLOfBcvs-Ab594Fg#channel=fs&q=markdown)
-
