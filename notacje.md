@@ -22,5 +22,5 @@
 |Notatki| .Notatka <br>- uwaga 1 <br>- uwaga 2  | -----  |
 |Znaczniki| (C) copyright, (TM) trademark, (R) registered trademark  | -----  |
 |Linki          |http://adres.pl[nazwa] |\[nazwa](www.adres.pl)|
-|Link z "opisem"|http://strona.com [opis]  |\[nazwa](www.adres.pl"opis")|
-|Obrazek| \image:obrazek.jpg[tekst] |\!\[alt text](https://adres.pl "Tytuł,nazwa")|
+|Link opisany|http://strona.com [opis]  |\[nazwa](www.adres.pl"opis")|
+|Dołączanie obrazka| \image:obrazek.jpg[tekst] |\!\[alt text](https://adres.pl "Tytuł,nazwa")|
